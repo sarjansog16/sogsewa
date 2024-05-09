@@ -11,9 +11,7 @@ const Home = () => {
       <Outlet />
       <Footer />
       <Facebook/>
-
-    </div>
-  );
-};
+      </div>
+    )}
 
 export default Home;
